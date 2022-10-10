@@ -1,1 +1,1 @@
-# DataStructure_Resizeable_Array.
+# DataStructure Resizeable Array
